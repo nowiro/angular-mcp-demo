@@ -1,0 +1,22 @@
+{
+  "name": "demo-app-v20",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "ng serve",
+    "mcp": "npx @angular/cli mcp"
+  },
+  "dependencies": {
+    "@angular/common": "^20.0.0",
+    "@angular/compiler": "^20.0.0",
+    "@angular/core": "^20.0.0",
+    "@angular/platform-browser": "^20.0.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.16.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^20.0.0",
+    "@angular/mcp": "^1.0.0",
+    "typescript": "~5.5.0"
+  }
+}
